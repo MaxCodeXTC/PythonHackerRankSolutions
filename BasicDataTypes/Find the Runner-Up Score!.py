@@ -16,4 +16,3 @@ if __name__ == '__main__':
             new_list.append(i)
     sort_list = sorted(new_list)
     print(sort_list[-2])
-
